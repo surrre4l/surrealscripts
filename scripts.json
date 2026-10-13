@@ -1,0 +1,38 @@
+
+{
+  "scripts": [
+    {
+      "id": "lunarion-ui",
+      "name": "LunarionUI",
+      "version": "1.0.0",
+      "type": "UI Library",
+      "description": "A customizable interface library for Lua and Luau projects.",
+      "sourceAvailable": true,
+      "visibility": "public",
+      "sha256": "",
+      "downloadUrl": ""
+    },
+    {
+      "id": "surreal-hub",
+      "name": "Surreal Hub",
+      "version": "1.0.0",
+      "type": "Application",
+      "description": "A project with source code that is not publicly published.",
+      "sourceAvailable": false,
+      "visibility": "public",
+      "sha256": "",
+      "downloadUrl": ""
+    },
+    {
+      "id": "lua-toolkit",
+      "name": "Lua Toolkit",
+      "version": "1.0.0",
+      "type": "Utility",
+      "description": "A collection of reusable Lua and Luau utilities.",
+      "sourceAvailable": true,
+      "visibility": "public",
+      "sha256": "",
+      "downloadUrl": ""
+    }
+  ]
+}
